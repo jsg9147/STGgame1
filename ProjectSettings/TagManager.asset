@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - BorderBullet
+  - PlayerBullet
+  - EnemyBullet
+  - Enemy
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2535456783
+    locked: 0
+  - name: Boom
+    uniqueID: 3332352653
+    locked: 0
+  - name: Unit
+    uniqueID: 1894563517
+    locked: 0
+  - name: Bullet
+    uniqueID: 2510340327
+    locked: 0
+  - name: Item
+    uniqueID: 2144824587
+    locked: 0
